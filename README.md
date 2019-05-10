@@ -1,18 +1,18 @@
 # gusta-scraper
 
-# get prerequisites
+## Install prerequisites
 
 ```sh
 npm install
 ```
 
-# Run the capella scraper
+## Run the capella scraper
 
 Output is the list of flavor names.
 
 `node capella.js`
 
-# Run the tpa scraper (WIP)
+## Run the tpa scraper (WIP)
 
 Output: `flavor name` `tab` `base`
 
