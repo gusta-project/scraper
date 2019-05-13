@@ -1,4 +1,4 @@
-# gusta-scraper
+# scraper
 
 ## Install prerequisites
 
